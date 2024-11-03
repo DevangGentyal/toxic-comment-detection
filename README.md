@@ -6,7 +6,6 @@ Detect toxic comments in Hinglish text with high accuracy! Our project leverages
 
 ## 🌟 Project Architecture
 
-```plaintext
 Input Texts ➔ Data Cleaning ➔ Character-level TF-IDF ➔ N-grams ➔ Logistic Regression (LR) ➔ Naive Bayes (NB) ➔ mBERT Fine-Tuning ➔ Output (Predictions & Evaluation)
 Input Texts: Hinglish, multilingual abusive, and HASOC datasets
 Data Cleaning: Text normalization, punctuation removal
