@@ -28,8 +28,8 @@ The model is trained and evaluated on the **Multilingual-Abusive-Comment-Detecti
 
 ### 📂 **Steps to Set Up the Dataset Folder**
 
-1️⃣ **Create a folder named ************************`dataset/`************************ in the project directory**\
-2️⃣ \*\*Download the following datasets and place them inside \*\***`dataset/`**
+1️⃣ Create a folder named ************************`dataset/`************************ in the project directory\
+2️⃣ Download the following datasets and place them inside ************************`dataset/`************************
 
 | **Dataset Name**         | **Download Link**                                                                                                                   |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
