@@ -38,5 +38,5 @@ Our ensemble-based model achieves **competitive accuracy** compared to **deep le
 ## 🛠️ Installation & Setup  
 1️⃣ **Clone this repository:**  
 ```bash
-git clone https://github.com/your-repo/Hinglish-Toxic-Detection.git
+git clone https://github.com/DevangGentyal/toxic-comment-detection.git
 cd Hinglish-Toxic-Detection
